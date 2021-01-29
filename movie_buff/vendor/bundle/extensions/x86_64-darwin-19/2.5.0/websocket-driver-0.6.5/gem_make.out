@@ -1,0 +1,15 @@
+current directory: /Users/nyannaing/Documents/app_academy/AAClasswork/W5D5_classwork/movie_buff/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/nyannaing/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20210129-40532-na5t63.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nyannaing/Documents/app_academy/AAClasswork/W5D5_classwork/movie_buff/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/nyannaing/Documents/app_academy/AAClasswork/W5D5_classwork/movie_buff/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/nyannaing/Documents/app_academy/AAClasswork/W5D5_classwork/movie_buff/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210129-40532-187ngb5

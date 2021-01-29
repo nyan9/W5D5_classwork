@@ -1,0 +1,19 @@
+current directory: /Users/nyannaing/Documents/app_academy/AAClasswork/W5D5_classwork/movie_buff/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/Users/nyannaing/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20210129-40532-1m75cv9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nyannaing/Documents/app_academy/AAClasswork/W5D5_classwork/movie_buff/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/nyannaing/Documents/app_academy/AAClasswork/W5D5_classwork/movie_buff/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/nyannaing/Documents/app_academy/AAClasswork/W5D5_classwork/movie_buff/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20210129-40532-r7xd5p/byebug
